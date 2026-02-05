@@ -1,5 +1,14 @@
 ## Hello guys! 👋
 ![My GitHub contributions](dasd.png)
+```txt
+> GITHUB CONTRIBUTIONS v1.0
+> STATUS: ONLINE
+> MODE: RETRO
+
+████ ████  ██ ████
+██   ██ ██ ██ ██
+████ ██ ██ ██ ████
+
 <!--
 **davids2510/davids2510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
